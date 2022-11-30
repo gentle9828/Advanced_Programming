@@ -42,4 +42,5 @@ public class Ex_Annotation {
 		nc.oldField = 10;
 		System.out.println(nc.getOldField());
 	}
+
 }
